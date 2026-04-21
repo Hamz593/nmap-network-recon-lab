@@ -96,11 +96,12 @@ nmap --script vuln 10.10.1.3
 
 ## 📊 Key Findings
 
-* Multiple open ports increase attack surface
-* Insecure protocols like Telnet are exposed
-* Critical services such as SMB and databases are accessible
-* Vulnerabilities like FTP anonymous login and SQL injection were identified
+The target system exposes a large attack surface due to multiple open ports and vulnerable services.
 
+- Multiple open ports increase the overall attack surface  
+- Insecure protocols like Telnet expose data in plaintext  
+- Critical services such as SMB and database services are accessible  
+- Vulnerabilities such as FTP anonymous login and SQL injection were identified  
 ---
 
 ## 🧠 Key Learning
