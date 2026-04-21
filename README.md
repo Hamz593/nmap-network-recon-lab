@@ -9,6 +9,7 @@ The objective is to identify active hosts, open ports, running services, and pot
 ---
 
 ## 🏗️ Lab Setup
+![Lab Setup](screenshots/lab-setup.png)
 
 * **Attacker:** Kali Linux
 * **Target:** Metasploitable2
