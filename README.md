@@ -1,6 +1,3 @@
-# 🔍 Nmap Network Recon Lab
-
-Hands-on cybersecurity project demonstrating internal network scanning and vulnerability assessment using Nmap.
 # 🔍 Nmap Network Reconnaissance & Vulnerability Lab
 
 ## 📌 Overview
